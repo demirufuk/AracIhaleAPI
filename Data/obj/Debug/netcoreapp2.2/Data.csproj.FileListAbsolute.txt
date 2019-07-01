@@ -1,0 +1,9 @@
+C:\Users\ufdemir\source\repos\AracIhale\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\ufdemir\source\repos\AracIhale\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\ufdemir\source\repos\AracIhale\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\Users\ufdemir\source\repos\AracIhale\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\ufdemir\source\repos\AracIhale\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\ufdemir\source\repos\AracIhale\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\ufdemir\source\repos\AracIhale\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\ufdemir\source\repos\AracIhale\Data\obj\Debug\netcoreapp2.2\Data.pdb
+C:\Users\ufdemir\source\repos\AracIhale\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
